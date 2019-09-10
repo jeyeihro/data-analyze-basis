@@ -1,0 +1,92 @@
+About PyCharm and GitHub integration(Scribble)
+
+# The GitHub repository creation method is omitted.
+
+** Advance preparation
+Start PyCharm.
+If there is no project, create a project appropriately.
+
+** When a repository exists on GitHub
+VCS menu-> check out from version control-> Git
+
+Press the login button to GitHub on the newly displayed dialog.
+
+Enter your Github login information in the newly displayed dialog.
+Press the login button.
+
+The remote repository is automatically loaded
+A list of repositories is displayed in the pull-down menu.
+
+Select a repository
+Make sure that the local directory is created properly
+Press the clone button.
+
+Press the clone button to automatically
+A local repository is automatically generated
+It becomes ready to commit and push.
+
+>>>Dealing with errors that Git cannot find<<<
+If you get a Cannot Run Git error
+Click Download on the dialog.
+Download the git site on the browser.
+On the PyCharm settings screen after installation
+Version control → Trace with Git
+Despite the Git executable path being Auto-detected
+If you press the test button and get File Not Found
+Select the explicitly installed git path.
+(If PyCharm is running immediately after installing Git,
+ unless Pycharm is restarted, it may not be displayed as a path selection candidate. )
+
+
+** If there is no repository on GitHub
+VCS menu → Import to version control → Create Git repository
+
+# Detailed steps are cumbersome and omitted
+
+------------------------------------------------------------------
+PyCharmとGitHubの連携メモ（殴り書き）
+
+※GitHubのリポジトリ作成方法は割愛。
+
+■事前準備
+PyCharmを起動する。
+プロジェクトが何もない場合は適当にプロジェクトを生成しておく。
+
+■GitHub上にリポジトリが存在する場合
+VCSメニュー→バージョン管理からチェックアウト→Git
+
+新しく表示されたダイアログ上でGitHubにログインボタンを押す。
+
+さらに新しく表示されたダイアログ上でGithubログイン情報を入力して
+ログインボタンを押す。
+
+自動的にリモートリポジトリが読み込まれて
+プルダウンメニューにリポジトリの一覧が表示される。
+
+リポジトリを選択し
+ローカルディレクトリの作成場所が適切かを確認して
+クローンボタンを押す。
+
+クローンボタンを押すと自動的にプロジェクトと
+ローカルリポジトリが自動生成され
+コミット＆プッシュ可能な状態となる。
+
+＜Gitが見つからないエラーへの対処＞
+Cannot Run Gitエラーが出る場合は
+そのダイアログ上でダウンロードをクリック。
+gitのサイトがブラウザ上で立ち上がるのでダウンロード。
+インストール後PyCharmの設定画面で
+バージョン管理→Gitとたどり
+Git実行可能ファイルのパスがAuto-detectedになっているにも関わらず
+テストボタンを押してFile Not Foundと出るようであれば
+明示的にインストールしたgitのパスを選択する。
+（Gitのインストール直後で、PyCharmが起動中の場合は
+　PyCharmを再起動しないとパスの選択候補として表示されないかもしれない。）
+
+
+■GitHub上にリポジトリが存在しない場合
+VCSメニュー→バージョン管理へインポート→Gitリポジトリの作成
+
+以下割愛。
+
+
