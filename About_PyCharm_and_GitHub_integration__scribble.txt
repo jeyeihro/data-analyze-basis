@@ -30,7 +30,7 @@ If you get a Cannot Run Git error
 Click Download on the dialog.
 Download the git site on the browser.
 On the PyCharm settings screen after installation
-Version control ¨ Trace with Git
+Version control â†’ Trace with Git
 Despite the Git executable path being Auto-detected
 If you press the test button and get File Not Found
 Select the explicitly installed git path.
@@ -39,54 +39,54 @@ Select the explicitly installed git path.
 
 
 ** If there is no repository on GitHub
-VCS menu ¨ Import to version control ¨ Create Git repository
+VCS menu â†’ Import to version control â†’ Create Git repository
 
 # Detailed steps are cumbersome and omitted
 
 ------------------------------------------------------------------
-PyCharm‚ÆGitHub‚Ì˜AŒgƒƒ‚i‰£‚è‘‚«j
+PyCharmã¨GitHubã®é€£æºãƒ¡ãƒ¢ï¼ˆæ®´ã‚Šæ›¸ãï¼‰
 
-¦GitHub‚ÌƒŠƒ|ƒWƒgƒŠì¬•û–@‚ÍŠ„ˆ¤B
+â€»GitHubã®ãƒªãƒã‚¸ãƒˆãƒªä½œæˆæ–¹æ³•ã¯å‰²æ„›ã€‚
 
-¡Ž–‘O€”õ
-PyCharm‚ð‹N“®‚·‚éB
-ƒvƒƒWƒFƒNƒg‚ª‰½‚à‚È‚¢ê‡‚Í“K“–‚ÉƒvƒƒWƒFƒNƒg‚ð¶¬‚µ‚Ä‚¨‚­B
+â– äº‹å‰æº–å‚™
+PyCharmã‚’èµ·å‹•ã™ã‚‹ã€‚
+ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãŒä½•ã‚‚ãªã„å ´åˆã¯é©å½“ã«ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’ç”Ÿæˆã—ã¦ãŠãã€‚
 
-¡GitHubã‚ÉƒŠƒ|ƒWƒgƒŠ‚ª‘¶Ý‚·‚éê‡
-VCSƒƒjƒ…[¨ƒo[ƒWƒ‡ƒ“ŠÇ—‚©‚çƒ`ƒFƒbƒNƒAƒEƒg¨Git
+â– GitHubä¸Šã«ãƒªãƒã‚¸ãƒˆãƒªãŒå­˜åœ¨ã™ã‚‹å ´åˆ
+VCSãƒ¡ãƒ‹ãƒ¥ãƒ¼â†’ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†ã‹ã‚‰ãƒã‚§ãƒƒã‚¯ã‚¢ã‚¦ãƒˆâ†’Git
 
-V‚µ‚­•\Ž¦‚³‚ê‚½ƒ_ƒCƒAƒƒOã‚ÅGitHub‚ÉƒƒOƒCƒ“ƒ{ƒ^ƒ“‚ð‰Ÿ‚·B
+æ–°ã—ãè¡¨ç¤ºã•ã‚ŒãŸãƒ€ã‚¤ã‚¢ãƒ­ã‚°ä¸Šã§GitHubã«ãƒ­ã‚°ã‚¤ãƒ³ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã€‚
 
-‚³‚ç‚ÉV‚µ‚­•\Ž¦‚³‚ê‚½ƒ_ƒCƒAƒƒOã‚ÅGithubƒƒOƒCƒ“î•ñ‚ð“ü—Í‚µ‚Ä
-ƒƒOƒCƒ“ƒ{ƒ^ƒ“‚ð‰Ÿ‚·B
+ã•ã‚‰ã«æ–°ã—ãè¡¨ç¤ºã•ã‚ŒãŸãƒ€ã‚¤ã‚¢ãƒ­ã‚°ä¸Šã§Githubãƒ­ã‚°ã‚¤ãƒ³æƒ…å ±ã‚’å…¥åŠ›ã—ã¦
+ãƒ­ã‚°ã‚¤ãƒ³ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã€‚
 
-Ž©“®“I‚ÉƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ª“Ç‚Ýž‚Ü‚ê‚Ä
-ƒvƒ‹ƒ_ƒEƒ“ƒƒjƒ…[‚ÉƒŠƒ|ƒWƒgƒŠ‚Ìˆê——‚ª•\Ž¦‚³‚ê‚éB
+è‡ªå‹•çš„ã«ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªãŒèª­ã¿è¾¼ã¾ã‚Œã¦
+ãƒ—ãƒ«ãƒ€ã‚¦ãƒ³ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ãƒªãƒã‚¸ãƒˆãƒªã®ä¸€è¦§ãŒè¡¨ç¤ºã•ã‚Œã‚‹ã€‚
 
-ƒŠƒ|ƒWƒgƒŠ‚ð‘I‘ð‚µ
-ƒ[ƒJƒ‹ƒfƒBƒŒƒNƒgƒŠ‚Ìì¬êŠ‚ª“KØ‚©‚ðŠm”F‚µ‚Ä
-ƒNƒ[ƒ“ƒ{ƒ^ƒ“‚ð‰Ÿ‚·B
+ãƒªãƒã‚¸ãƒˆãƒªã‚’é¸æŠžã—
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®ä½œæˆå ´æ‰€ãŒé©åˆ‡ã‹ã‚’ç¢ºèªã—ã¦
+ã‚¯ãƒ­ãƒ¼ãƒ³ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã€‚
 
-ƒNƒ[ƒ“ƒ{ƒ^ƒ“‚ð‰Ÿ‚·‚ÆŽ©“®“I‚ÉƒvƒƒWƒFƒNƒg‚Æ
-ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ªŽ©“®¶¬‚³‚ê
-ƒRƒ~ƒbƒg•ƒvƒbƒVƒ…‰Â”\‚Èó‘Ô‚Æ‚È‚éB
+ã‚¯ãƒ­ãƒ¼ãƒ³ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã¨è‡ªå‹•çš„ã«ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¨
+ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªãŒè‡ªå‹•ç”Ÿæˆã•ã‚Œ
+ã‚³ãƒŸãƒƒãƒˆï¼†ãƒ—ãƒƒã‚·ãƒ¥å¯èƒ½ãªçŠ¶æ…‹ã¨ãªã‚‹ã€‚
 
-ƒGit‚ªŒ©‚Â‚©‚ç‚È‚¢ƒGƒ‰[‚Ö‚Ì‘Îˆ„
-Cannot Run GitƒGƒ‰[‚ªo‚éê‡‚Í
-‚»‚Ìƒ_ƒCƒAƒƒOã‚Åƒ_ƒEƒ“ƒ[ƒh‚ðƒNƒŠƒbƒNB
-git‚ÌƒTƒCƒg‚ªƒuƒ‰ƒEƒUã‚Å—§‚¿ã‚ª‚é‚Ì‚Åƒ_ƒEƒ“ƒ[ƒhB
-ƒCƒ“ƒXƒg[ƒ‹ŒãPyCharm‚ÌÝ’è‰æ–Ê‚Å
-ƒo[ƒWƒ‡ƒ“ŠÇ—¨Git‚Æ‚½‚Ç‚è
-GitŽÀs‰Â”\ƒtƒ@ƒCƒ‹‚ÌƒpƒX‚ªAuto-detected‚É‚È‚Á‚Ä‚¢‚é‚É‚àŠÖ‚í‚ç‚¸
-ƒeƒXƒgƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚ÄFile Not Found‚Æo‚é‚æ‚¤‚Å‚ ‚ê‚Î
-–¾Ž¦“I‚ÉƒCƒ“ƒXƒg[ƒ‹‚µ‚½git‚ÌƒpƒX‚ð‘I‘ð‚·‚éB
-iGit‚ÌƒCƒ“ƒXƒg[ƒ‹’¼Œã‚ÅAPyCharm‚ª‹N“®’†‚Ìê‡‚Í
-@PyCharm‚ðÄ‹N“®‚µ‚È‚¢‚ÆƒpƒX‚Ì‘I‘ðŒó•â‚Æ‚µ‚Ä•\Ž¦‚³‚ê‚È‚¢‚©‚à‚µ‚ê‚È‚¢Bj
+ï¼œGitãŒè¦‹ã¤ã‹ã‚‰ãªã„ã‚¨ãƒ©ãƒ¼ã¸ã®å¯¾å‡¦ï¼ž
+Cannot Run Gitã‚¨ãƒ©ãƒ¼ãŒå‡ºã‚‹å ´åˆã¯
+ãã®ãƒ€ã‚¤ã‚¢ãƒ­ã‚°ä¸Šã§ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã‚’ã‚¯ãƒªãƒƒã‚¯ã€‚
+gitã®ã‚µã‚¤ãƒˆãŒãƒ–ãƒ©ã‚¦ã‚¶ä¸Šã§ç«‹ã¡ä¸ŠãŒã‚‹ã®ã§ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã€‚
+ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å¾ŒPyCharmã®è¨­å®šç”»é¢ã§
+ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†â†’Gitã¨ãŸã©ã‚Š
+Gitå®Ÿè¡Œå¯èƒ½ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ‘ã‚¹ãŒAuto-detectedã«ãªã£ã¦ã„ã‚‹ã«ã‚‚é–¢ã‚ã‚‰ãš
+ãƒ†ã‚¹ãƒˆãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦File Not Foundã¨å‡ºã‚‹ã‚ˆã†ã§ã‚ã‚Œã°
+æ˜Žç¤ºçš„ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸgitã®ãƒ‘ã‚¹ã‚’é¸æŠžã™ã‚‹ã€‚
+ï¼ˆGitã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ç›´å¾Œã§ã€PyCharmãŒèµ·å‹•ä¸­ã®å ´åˆã¯
+ã€€PyCharmã‚’å†èµ·å‹•ã—ãªã„ã¨ãƒ‘ã‚¹ã®é¸æŠžå€™è£œã¨ã—ã¦è¡¨ç¤ºã•ã‚Œãªã„ã‹ã‚‚ã—ã‚Œãªã„ã€‚ï¼‰
 
 
-¡GitHubã‚ÉƒŠƒ|ƒWƒgƒŠ‚ª‘¶Ý‚µ‚È‚¢ê‡
-VCSƒƒjƒ…[¨ƒo[ƒWƒ‡ƒ“ŠÇ—‚ÖƒCƒ“ƒ|[ƒg¨GitƒŠƒ|ƒWƒgƒŠ‚Ìì¬
+â– GitHubä¸Šã«ãƒªãƒã‚¸ãƒˆãƒªãŒå­˜åœ¨ã—ãªã„å ´åˆ
+VCSãƒ¡ãƒ‹ãƒ¥ãƒ¼â†’ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†ã¸ã‚¤ãƒ³ãƒãƒ¼ãƒˆâ†’Gitãƒªãƒã‚¸ãƒˆãƒªã®ä½œæˆ
 
-ˆÈ‰ºŠ„ˆ¤B
+ä»¥ä¸‹å‰²æ„›ã€‚
 
 
