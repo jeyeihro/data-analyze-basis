@@ -1,0 +1,74 @@
+Installation of Jupyter Notebook for PyCharm
+
+-Introduction
+Assume that PyCharm is installed.
+This procedure is to install JupyterNotebook
+by pressing minimize commands, and using standard PyCharm GUI operations.
+
+-Installation of core modules for Jupyter Notebook
+Open preference window of PyCharm by pressing Ctrl+Alt+S.
+(For Mac, pressing Command+,)
+Follow Project-> Project Interpreter
+Click the `+` mark in the right pane.
+
+Type `jupyter` in the input form at the top of the new dialog,
+Confirm that the package list starting with jupyter is highlighted in the left pane.
+Select `jupyter`.
+Click `Install Package`.
+When a message indicating `successfully` is output,this installation is complete.
+
+-Installation of Jupyter Notebook extension(nbextensions)
+As above, from the dialog opened with the + button
+Enter `nbextensions` and install the following packages in order.
+  jupyter-contrib-nbextensions
+  jupyter_nbextensions_configurator
+
+-Initial setup of Jupyter Notebook extension(nbextensions)
+Execute the following commands in order on the `Terminal` pane of PyCharm.
+>jupyter nbextensions_configurator enable --user
+>jupyter contrib nbextension install --user
+
+-Check JupyterNotebook installation result
+Launch Jupyter Notebook from the terminal pane of PyCharm.
+>jupyter notebook
+Notebook starts on the web browser,
+Confirm that `Nbextensions` tab is displayed as a tab on the top screen.
+（Files,Running,Clusters,Nbextensions）
+
+------------------------------------------------------------------
+PyCharmのためのJupyterNotebookインストール（殴り書き）
+
+-はじめに
+PyCharmはインストールされているものとします。
+コマンドは最小限とし、PyCharmの標準的なGUI操作により
+JupyterNotebookをインストールする事を目的とします。
+
+-JupyterNotebook本体のインストール
+Ctrl+Alt+Sを押して、設定ウインドウを開きます。
+（Macの場合はCommand+,）
+プロジェクト->プロジェクトインタプリタをたどり、
+右のペインにある+マークをクリックします。
+
+新しいダイアログ上の一番上にある入力フォームでjupyterと入力し
+左のペインにjupyterから始まるパッケージ一覧がハイライトされた事を確認し
+「jupyter」を選択します。
+「パッケージのインストール」をクリックします。
+成功された旨メッセージが出力されたらインストール完了です。
+
+-JupyterNotebook拡張機能（nbextensions）のインストール
+上記同様、+ボタンで開くダイアログから
+nbextensionsと入力し、以下のパッケージを順番にインストールします。
+  jupyter-contrib-nbextensions
+  jupyter_nbextensions_configurator
+
+-JupyterNotebook拡張機能（nbextensions）の初期セットアップ
+PyCharmのターミナルペイン上で以下のコマンドを順番に実行します。
+>jupyter nbextensions_configurator enable --user
+>jupyter contrib nbextension install --user
+
+-JupyterNotebookインストール結果の確認
+PyCharmのターミナルペインからJupyter Notebookを起動します。
+>jupyter notebook
+Webブラウザ上でNotebookが起動し
+トップ画面のタブとしてNbextensionsが表示されている事を確認します。
+（Files,Running,Clusters,Nbextensions）
